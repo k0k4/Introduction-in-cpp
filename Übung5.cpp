@@ -1,4 +1,4 @@
-// übung5.cpp : Definiert den Einstiegspunkt für die Konsolenanwendung.
+// Ã¼bung5.cpp : Definiert den Einstiegspunkt fÃ¼r die Konsolenanwendung.
 //
 
 #include "stdafx.h"
