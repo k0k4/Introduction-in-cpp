@@ -1,4 +1,4 @@
-// übung4.18.cpp : Definiert den Einstiegspunkt für die Konsolenanwendung.
+// Ã¼bung4.18.cpp : Definiert den Einstiegspunkt fÃ¼r die Konsolenanwendung.
 //
 
 #include "stdafx.h"
