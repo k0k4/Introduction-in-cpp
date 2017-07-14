@@ -1,0 +1,4 @@
+Ich bin der Text einer datei,
+und an mich wird etwas drangehängt.
+Ich bin der Text einer datei,
+und werde woanders drangehängt.
