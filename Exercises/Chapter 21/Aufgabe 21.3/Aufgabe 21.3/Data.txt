@@ -1,0 +1,12 @@
+
+Peter 23
+Lori 25
+Hans 30
+Jana 10
+Tim 5
+Simone 8
+Samson 70
+Rita 40
+Joerg 36
+Greta 53
+Dieter 39

@@ -1,0 +1,10 @@
+Tomaten 160463 1.45
+Champingons 306839 3.99
+Gurken 362753 0.76
+Kartoffeln 117362 0.99
+Zwiebeln 738403 1.19
+Salat 492047 1.09
+Zuchini 138274 2.99
+Paprika 203905 5.99
+Zitronen 103749 1.99
+Brokoli 303749 4.49

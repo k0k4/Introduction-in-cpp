@@ -1,0 +1,11 @@
+Aragorn
+Mittelerde
+Schwert , 200 , 1
+Gandalf
+Mittelerde
+Heiltrank , 9.99 , 5
+Manatrank , 19.99 , 8
+Legolas
+Mittelerde
+Bogen , 100.99 , 1
+Pfeile , 5.99 , 300
